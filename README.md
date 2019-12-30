@@ -7,6 +7,7 @@ https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 ## FILES 
 <ul>
  <li> apriori algorithm ex.py(apriori example)</li>
+ <li> apriori gui.py </li>
  <li> scikit-learn iris.py(iris dataset example) </li>
 </ul>
 
