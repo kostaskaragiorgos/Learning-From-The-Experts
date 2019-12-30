@@ -15,6 +15,8 @@ https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 
  <ul>
   <li> pandas (conda install -c anaconda pandas) </li>
+  <li> second way to install pandas(pip install pandas) </li>
   <li> scikit-learn (conda install -c anaconda scikit-learn) </li>
+  <li> second way to install scikit-learn (pip install scikit-learn) </li>
   <li> apyori (pip install apyori) </li>
 </ul>
